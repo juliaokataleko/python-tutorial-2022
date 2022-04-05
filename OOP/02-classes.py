@@ -29,5 +29,3 @@ print(d.get_name())
 d.set_age(10)
 print(d.get_age())
 
-dog1
-
