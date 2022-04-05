@@ -1,6 +1,3 @@
-from lib2to3.pytree import convert
-
-
 weight = int(input("Weight: "))
 
 unity = input("(K)g or (L)bs")
